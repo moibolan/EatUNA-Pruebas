@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EatUNA</string>
+
+    <string name="Title1">OMAR DENGO</string>
+    <string name="Title2">BENJAMIN NUNEZ</string>
+    <string name="Title3">LIBERIA</string>
+    <string name="Title4">INTERUNIVERSITARIA</string>
+    <string name="Title5">SARAPIQUI</string>
+    <string name="Title6">COTO</string>
+    <string name="Title7">PEREZ ZELEDON</string>
+    <string name="Title8">NICOYA</string>
+
+
+    <string name="Details1">Heredia</string>
+    <string name="Details2">Heredia</string>
+    <string name="Details3">Guanacaste</string>
+    <string name="Details4">Alajuela</string>
+    <string name="Details5">Heredia</string>
+    <string name="Details6">Puntarenas</string>
+    <string name="Details7">San Jose</string>
+    <string name="Details8">Guanacaste</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
